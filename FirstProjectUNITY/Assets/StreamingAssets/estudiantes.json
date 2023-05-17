@@ -1,0 +1,45 @@
+﻿{
+	"baseDatos":[
+	 {"identificacion":2001,
+	"nombre":"Mateo",
+    "apellido":"Garzon",
+    "gmail":"alumno20001@gmail.com",
+	"edad":15,
+	"nota":5},
+
+	   {"identificacion":2002,
+	"nombre":"Jose",
+    "apellido":"Lopez",
+    "gmail":"alumno20002@gmail.com",
+	"edad":22,
+	"nota":4},
+
+	   {"identificacion":2003,
+	"nombre":"Ana",
+    "apellido":"Rojas",
+    "gmail":"alumno20003@gmail.com",
+	"edad":23,
+	"nota":3 },
+
+	{"identificacion":2004,
+	"nombre":"Lucas",
+    "apellido":"veltran",
+    "gmail":"alumno20004@gmail.com",
+	"edad":28,
+	"nota":3},
+
+	{"identificacion":2005,
+	"nombre":"Luis",
+    "apellido":"Gomez",
+    "gmail":"alumno20005@gmail.com",
+	"edad":21,
+	"nota":2},
+
+	{"identificacion":2006,
+	"nombre":"Edwar",
+    "apellido":"Gomez",
+    "gmail":"alumno20006@gmail.com",
+	"edad":30,
+	"nota":1}
+	 ]
+}
